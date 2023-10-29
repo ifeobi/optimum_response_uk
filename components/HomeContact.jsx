@@ -16,8 +16,8 @@ const HomeContact = () => {
 
           <p>16 Kings Street Luton Bedfordshire UK</p>
           <p>Tel: 01582931978</p>
-          <a href="mailto:info@optimumresponsecareltd.co.uk">
-            info@optimumresponsecareltd.co.uk
+          <a href="mailto:info@optimumresponse.co.uk">
+            info@optimumresponse.co.uk
           </a>
         </div>
         <div className="map">
